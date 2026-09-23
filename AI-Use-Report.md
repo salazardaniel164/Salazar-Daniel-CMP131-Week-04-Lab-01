@@ -2,17 +2,17 @@
 
 ## Student Information
 
-- Student name:
-- Week:
-- Lab:
-- Date:
+- Student name: Daniel E Salazar gomez 
+- Week: 4
+- Lab: 01
+- Date:09/22/26
 
 ## AI Use
 
 Did you use an AI tool for this lab?
 
 - [ ] Yes
-- [ ] No
+- [No ] No
 
 If yes, complete the sections below. If no, write “No AI tool was used” under Summary.
 
